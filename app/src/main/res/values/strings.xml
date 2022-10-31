@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ESP8266dirstim</string>
+    <string name="title_activity_square_impuls">SquareImpuls</string>
+
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Param1text">Введите значение амплитуды Uamp(мВ):</string>
+    <string name="ParamUamp1ext">Введите значение амплитуды Uamp1(мВ):</string>
+    <string name="ParamUamp2text">Введите значение амплитуды Uamp2(мВ):</string>
+    <string name="Param2text">Введите длительность импульса Tи(мс):</string>
+    <string name="Param3text">Введите период повторений Тповт(мс):</string>
+    <string name="ESPadress">http://192.168.4.1</string>
+    <string name="adresscheck">проверка</string>
+
+</resources>
